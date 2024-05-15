@@ -1,0 +1,4 @@
+rootProject.name = 'java-features'
+
+include('java17')
+include('java21')
